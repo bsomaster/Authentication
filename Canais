@@ -1,0 +1,217 @@
+#EXTM3U
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/AYA",Premiere 1 SD
+http://pfsv.io:80/leticia/131278/544.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/AXT",Premiere 1 HD
+http://pfsv.io:80/leticia/131278/537.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/AXI",Premiere 1 FHD¹
+http://pfsv.io:80/leticia/131278/524.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/VTA",Premiere 1 FHD²
+http://pfsv.io:80/leticia/131278/30287.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/AZJ",Premiere 1 [4K]
+http://pfsv.io:80/leticia/131278/584.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/AXU",Premiere 2 SD
+http://pfsv.io:80/leticia/131278/538.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/AXP",Premiere 2 HD
+http://pfsv.io:80/leticia/131278/531.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/AXJ",Premiere 2 FHD¹
+http://pfsv.io:80/leticia/131278/525.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/VSX",Premiere 2 FHD²
+http://pfsv.io:80/leticia/131278/30284.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/AXV",Premiere 3 SD
+http://pfsv.io:80/leticia/131278/539.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/AXQ",Premiere 3 HD
+http://pfsv.io:80/leticia/131278/532.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/AXK",Premiere 3 FHD¹
+http://pfsv.io:80/leticia/131278/526.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/VSY",Premiere 3 FHD²
+http://pfsv.io:80/leticia/131278/30285.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/AXW",Premiere 4 SD
+http://pfsv.io:80/leticia/131278/540.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/VSF",Premiere 4 HD
+http://pfsv.io:80/leticia/131278/533.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/AXL",Premiere 4 FHD¹
+http://pfsv.io:80/leticia/131278/527.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/VTB",Premiere 4 FHD²
+http://pfsv.io:80/leticia/131278/30288.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/AXX",Premiere 5 SD
+http://pfsv.io:80/leticia/131278/541.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/AXR",Premiere 5 HD
+http://pfsv.io:80/leticia/131278/534.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/AXM",Premiere 5 FHD¹
+http://pfsv.io:80/leticia/131278/528.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/VSZ",Premiere 5 FHD²
+http://pfsv.io:80/leticia/131278/30286.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/AXY",Premiere 6 SD
+http://pfsv.io:80/leticia/131278/542.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/AXS",Premiere 6 HD
+http://pfsv.io:80/leticia/131278/535.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/AXN",Premiere 6 FHD¹
+http://pfsv.io:80/leticia/131278/529.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/VTC",Premiere 6 FHD²
+http://pfsv.io:80/leticia/131278/30289.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/AXZ",Premiere 7 SD
+http://pfsv.io:80/leticia/131278/543.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/VSG",Premiere 7 HD
+http://pfsv.io:80/leticia/131278/536.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/AXO",Premiere 7 FHD¹
+http://pfsv.io:80/leticia/131278/530.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/VTD",Premiere 7 FHD²
+http://pfsv.io:80/leticia/131278/30290.ts
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/VTD",Premiere 8 FHD
+http://pfsv.io:80/leticia/131278/130240.ts
+#EXTINF:-1 group-title="Band Sports" tvg-logo="http://p6.vc/AOO",Band Sports SD
+http://pfsv.io:80/leticia/131278/265.ts
+#EXTINF:-1 group-title="Band Sports" tvg-logo="http://p6.vc/AOG",Band Sports HD
+http://pfsv.io:80/leticia/131278/256.ts
+#EXTINF:-1 group-title="Band Sports" tvg-logo="http://p6.vc/ANX",Band Sports FHD¹
+http://pfsv.io:80/leticia/131278/247.ts
+#EXTINF:-1 group-title="Band Sports" tvg-logo="http://p6.vc/VSW",Band Sports FHD²
+http://pfsv.io:80/leticia/131278/30275.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKC",Conmebol TV 2 FHD [B]
+http://pfsv.io:80/leticia/131278/65566.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKV",Conmebol TV 01 HD [D]
+http://pfsv.io:80/leticia/131278/65585.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKW",Conmebol TV 02 HD [D]
+http://pfsv.io:80/leticia/131278/65586.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKX",Conmebol TV 03 HD [D]
+http://pfsv.io:80/leticia/131278/65587.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKR",Conmebol TV 1 SD [C]
+http://pfsv.io:80/leticia/131278/65581.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VJX",Conmebol TV 1 HD [A]
+http://pfsv.io:80/leticia/131278/65561.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKF",Conmebol TV 1 HD [B]
+http://pfsv.io:80/leticia/131278/65569.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKN",Conmebol TV 1 HD [C]
+http://pfsv.io:80/leticia/131278/65577.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKB",Conmebol TV 1 FHD [B]
+http://pfsv.io:80/leticia/131278/65565.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKJ",Conmebol TV 1 FHD [C]
+http://pfsv.io:80/leticia/131278/65573.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKS",Conmebol TV 2 SD [C]
+http://pfsv.io:80/leticia/131278/65582.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VJY",Conmebol TV 2 HD [A]
+http://pfsv.io:80/leticia/131278/65562.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKG",Conmebol TV 2 HD [B]
+http://pfsv.io:80/leticia/131278/65570.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKO",Conmebol TV 2 HD [C]
+http://pfsv.io:80/leticia/131278/65578.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKK",Conmebol TV 2 FHD [C]
+http://pfsv.io:80/leticia/131278/65574.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKT",Conmebol TV 3 SD [C]
+http://pfsv.io:80/leticia/131278/65583.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VJZ",Conmebol TV 3 HD [A]
+http://pfsv.io:80/leticia/131278/65563.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKH",Conmebol TV 3 HD [B]
+http://pfsv.io:80/leticia/131278/65571.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKP",Conmebol TV 3 HD [C]
+http://pfsv.io:80/leticia/131278/65579.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKD",Conmebol TV 3 FHD [B]
+http://pfsv.io:80/leticia/131278/65567.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKL",Conmebol TV 3 FHD [C]
+http://pfsv.io:80/leticia/131278/65575.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKU",Conmebol TV 4 SD [C]
+http://pfsv.io:80/leticia/131278/65584.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKA",Conmebol TV 4 HD [A]
+http://pfsv.io:80/leticia/131278/65564.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKI",Conmebol TV 4 HD [B]
+http://pfsv.io:80/leticia/131278/65572.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKQ",Conmebol TV 4 HD [C]
+http://pfsv.io:80/leticia/131278/65580.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKY",Conmebol TV 4 HD [D]
+http://pfsv.io:80/leticia/131278/65588.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VLN",Conmebol TV 4 HD [C]
+http://pfsv.io:80/leticia/131278/113956.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKE",Conmebol TV 4 FHD [B]
+http://pfsv.io:80/leticia/131278/65568.ts
+#EXTINF:-1 group-title="Conmebol" tvg-logo="http://p6.vc/VKM",Conmebol TV 4 FHD [C]
+http://pfsv.io:80/leticia/131278/65576.ts
+#EXTINF:-1 group-title="Combate" tvg-logo="http://p6.vc/AOP",Combate SD
+http://pfsv.io:80/leticia/131278/266.ts
+#EXTINF:-1 group-title="Combate" tvg-logo="http://p6.vc/AOH",Combate HD
+http://pfsv.io:80/leticia/131278/257.ts
+#EXTINF:-1 group-title="Combate" tvg-logo="http://p6.vc/ANZ",Combate FHD¹
+http://pfsv.io:80/leticia/131278/249.ts
+#EXTINF:-1 group-title="Combate" tvg-logo="http://p6.vc/WJZ",Combate FHD²
+http://pfsv.io:80/leticia/131278/30276.ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOS",ESPN SD
+http://pfsv.io:80/leticia/131278/269.ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOJ",ESPN HD
+http://pfsv.io:80/leticia/131278/259.ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOA",ESPN FHD¹
+http://pfsv.io:80/leticia/131278/250.ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/WKD",ESPN FHD²
+http://pfsv.io:80/leticia/131278/30280.ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/WKG",ESPN [4K]
+http://pfsv.io:80/leticia/131278/586.ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOQ",ESPN 2 SD
+http://pfsv.io:80/leticia/131278/267.ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOL",ESPN 2 HD
+http://pfsv.io:80/leticia/131278/261.ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOB",ESPN 2 FHD¹
+http://pfsv.io:80/leticia/131278/251.ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/WKE",ESPN 2 FHD²
+http://pfsv.io:80/leticia/131278/30281.ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOR",ESPN 3 SD
+http://pfsv.io:80/leticia/131278/268.ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOI",ESPN 3 HD
+http://pfsv.io:80/leticia/131278/258.ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOE",ESPN 3 FHD¹
+http://pfsv.io:80/leticia/131278/254.ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/WKA",ESPN 3 FHD²
+http://pfsv.io:80/leticia/131278/30277.ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOU",ESPN 4 SD
+http://pfsv.io:80/leticia/131278/271.ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOM",ESPN 4 HD
+http://pfsv.io:80/leticia/131278/262.ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOF",ESPN 4 FHD¹
+http://pfsv.io:80/leticia/131278/255.ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/WKG",ESPN 4 FHD²
+http://pfsv.io:80/leticia/131278/30283.ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOT",ESPN 5 SD
+http://pfsv.io:80/leticia/131278/270.ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOK",ESPN 5 HD
+http://pfsv.io:80/leticia/131278/260.ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/ANY",ESPN 5 FHD¹
+http://pfsv.io:80/leticia/131278/248.ts
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/WKB",ESPN 5 FHD²
+http://pfsv.io:80/leticia/131278/30278.ts
+#EXTINF:-1 group-title="Fox Sports" tvg-logo="http://p6.vc/AOV",Fox Sports 2 SD
+http://pfsv.io:80/leticia/131278/272.ts
+#EXTINF:-1 group-title="Fox Sports" tvg-logo="http://p6.vc/AON",Fox Sports 2 HD
+http://pfsv.io:80/leticia/131278/263.ts
+#EXTINF:-1 group-title="Fox Sports" tvg-logo="http://p6.vc/AOC",Fox Sports 2 FHD¹
+http://pfsv.io:80/leticia/131278/252.ts
+#EXTINF:-1 group-title="Fox Sports" tvg-logo="http://p6.vc/WKF",Fox Sports 2 FHD²
+http://pfsv.io:80/leticia/131278/30282.ts
+#EXTINF:-1 group-title="SporTV" tvg-logo="http://p6.vc/AYM",SporTV SD
+http://pfsv.io:80/leticia/131278/559.ts
+#EXTINF:-1 group-title="SporTV" tvg-logo="http://p6.vc/AYJ",SporTV HD
+http://pfsv.io:80/leticia/131278/556.ts
+#EXTINF:-1 group-title="SporTV" tvg-logo="http://p6.vc/AYI",SporTV FHD¹
+http://pfsv.io:80/leticia/131278/555.ts
+#EXTINF:-1 group-title="SporTV" tvg-logo="http://p6.vc/WHX",SporTV FHD²
+http://pfsv.io:80/leticia/131278/30293.ts
+#EXTINF:-1 group-title="SporTV" tvg-logo="http://p6.vc/AYN",SporTV 2 SD
+http://pfsv.io:80/leticia/131278/560.ts
+#EXTINF:-1 group-title="SporTV" tvg-logo="http://p6.vc/AYK",SporTV 2 HD
+http://pfsv.io:80/leticia/131278/557.ts
+#EXTINF:-1 group-title="SporTV" tvg-logo="http://p6.vc/AYH",SporTV 2 FHD¹
+http://pfsv.io:80/leticia/131278/553.ts
+#EXTINF:-1 group-title="SporTV" tvg-logo="http://p6.vc/WHV",SporTV 2 FHD²
+http://pfsv.io:80/leticia/131278/30291.ts
+#EXTINF:-1 group-title="SporTV" tvg-logo="http://p6.vc/AYL",SporTV 3 SD
+http://pfsv.io:80/leticia/131278/561.ts
+#EXTINF:-1 group-title="SporTV" tvg-logo="http://p6.vc/AYL",SporTV 3 HD
+http://pfsv.io:80/leticia/131278/558.ts
+#EXTINF:-1 group-title="SporTV" tvg-logo="http://p6.vc/WGW",SporTV 3 FHD¹
+http://pfsv.io:80/leticia/131278/554.ts
+#EXTINF:-1 group-title="SporTV" tvg-logo="http://p6.vc/WHW",SporTV 3 FHD²
+http://pfsv.io:80/leticia/131278/30292.ts
+#EXTINF:-1 group-title="UFC Fight Pass" tvg-logo="http://p6.vc/XRL",UFC Fight Pass SD
+http://pfsv.io:80/leticia/131278/132344.ts
+#EXTINF:-1 group-title="UFC Fight Pass" tvg-logo="http://p6.vc/XRK",UFC Fight Pass HD
+http://pfsv.io:80/leticia/131278/132343.ts
+#EXTINF:-1 group-title="UFC Fight Pass" tvg-logo="http://p6.vc/XNA",UFC Fight Pass [BR]
+http://pfsv.io:80/leticia/131278/170149.ts
+#EXTINF:-1 group-title="UFC Fight Pass" tvg-logo="http://p6.vc/XRJ",UFC Fight Pass FHD
+http://pfsv.io:80/leticia/131278/132342.ts
