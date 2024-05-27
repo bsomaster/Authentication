@@ -7,7 +7,7 @@ http://pfsv.io:80/leticia/131278/537.ts
 http://pfsv.io:80/leticia/131278/524.ts
 #EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/VTA",Premiere 1 FHD²
 http://pfsv.io:80/leticia/131278/30287.ts
-#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/AZJ",Premiere 1 [4K]
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/AZJ",Premiere 1 4K
 http://pfsv.io:80/leticia/131278/584.ts
 #EXTINF:-1 group-title="Premiere" tvg-logo="http://p6.vc/AXU",Premiere 2 SD
 http://pfsv.io:80/leticia/131278/538.ts
@@ -135,13 +135,13 @@ http://pfsv.io:80/leticia/131278/249.ts
 http://pfsv.io:80/leticia/131278/30276.ts
 #EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOS",ESPN SD
 http://pfsv.io:80/leticia/131278/269.ts
-#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOJ",ESPN HD
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOS",ESPN HD
 http://pfsv.io:80/leticia/131278/259.ts
-#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOA",ESPN FHD¹
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOS",ESPN FHD¹
 http://pfsv.io:80/leticia/131278/250.ts
-#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/WKD",ESPN FHD²
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOS",ESPN FHD²
 http://pfsv.io:80/leticia/131278/30280.ts
-#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/WKG",ESPN [4K]
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOS",ESPN 4K
 http://pfsv.io:80/leticia/131278/586.ts
 #EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOQ",ESPN 2 SD
 http://pfsv.io:80/leticia/131278/267.ts
@@ -167,13 +167,13 @@ http://pfsv.io:80/leticia/131278/262.ts
 http://pfsv.io:80/leticia/131278/255.ts
 #EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/WKG",ESPN 4 FHD²
 http://pfsv.io:80/leticia/131278/30283.ts
-#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOT",ESPN 5 SD
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOT",ESPN Extra SD
 http://pfsv.io:80/leticia/131278/270.ts
-#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOK",ESPN 5 HD
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/AOK",ESPN Extra HD
 http://pfsv.io:80/leticia/131278/260.ts
-#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/ANY",ESPN 5 FHD¹
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/ANY",ESPN Extra FHD¹
 http://pfsv.io:80/leticia/131278/248.ts
-#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/WKB",ESPN 5 FHD²
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://p6.vc/WKB",ESPN Extra FHD²
 http://pfsv.io:80/leticia/131278/30278.ts
 #EXTINF:-1 group-title="Fox Sports" tvg-logo="http://p6.vc/AOV",Fox Sports 2 SD
 http://pfsv.io:80/leticia/131278/272.ts
@@ -207,11 +207,11 @@ http://pfsv.io:80/leticia/131278/558.ts
 http://pfsv.io:80/leticia/131278/554.ts
 #EXTINF:-1 group-title="SporTV" tvg-logo="http://p6.vc/WHW",SporTV 3 FHD²
 http://pfsv.io:80/leticia/131278/30292.ts
-#EXTINF:-1 group-title="UFC Fight Pass" tvg-logo="http://p6.vc/XRL",UFC Fight Pass SD
+#EXTINF:-1 group-title="UFC Fight" tvg-logo="http://p6.vc/XRL",UFC Fight Pass SD
 http://pfsv.io:80/leticia/131278/132344.ts
-#EXTINF:-1 group-title="UFC Fight Pass" tvg-logo="http://p6.vc/XRK",UFC Fight Pass HD
+#EXTINF:-1 group-title="UFC Fight" tvg-logo="http://p6.vc/XRK",UFC Fight Pass HD
 http://pfsv.io:80/leticia/131278/132343.ts
-#EXTINF:-1 group-title="UFC Fight Pass" tvg-logo="http://p6.vc/XNA",UFC Fight Pass [BR]
+#EXTINF:-1 group-title="UFC Fight" tvg-logo="http://p6.vc/XNA",UFC Fight Pass [BR]
 http://pfsv.io:80/leticia/131278/170149.ts
-#EXTINF:-1 group-title="UFC Fight Pass" tvg-logo="http://p6.vc/XRJ",UFC Fight Pass FHD
+#EXTINF:-1 group-title="UFC Fight" tvg-logo="http://p6.vc/XRJ",UFC Fight Pass FHD
 http://pfsv.io:80/leticia/131278/132342.ts
