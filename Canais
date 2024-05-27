@@ -207,11 +207,11 @@ http://pfsv.io:80/leticia/131278/558.ts
 http://pfsv.io:80/leticia/131278/554.ts
 #EXTINF:-1 group-title="SporTV" tvg-logo="http://p6.vc/WHW",SporTV 3 FHD²
 http://pfsv.io:80/leticia/131278/30292.ts
-#EXTINF:-1 group-title="UFC Fight" tvg-logo="http://p6.vc/XRL",UFC Fight Pass SD
+#EXTINF:-1 group-title="UFC Fight" tvg-logo="http://p6.vc/XNA",UFC Fight Pass SD
 http://pfsv.io:80/leticia/131278/132344.ts
-#EXTINF:-1 group-title="UFC Fight" tvg-logo="http://p6.vc/XRK",UFC Fight Pass HD
+#EXTINF:-1 group-title="UFC Fight" tvg-logo="http://p6.vc/XNA",UFC Fight Pass HD
 http://pfsv.io:80/leticia/131278/132343.ts
-#EXTINF:-1 group-title="UFC Fight" tvg-logo="http://p6.vc/XNA",UFC Fight Pass [BR]
+#EXTINF:-1 group-title="UFC Fight" tvg-logo="http://p6.vc/XNA",UFC Fight Pass BR
 http://pfsv.io:80/leticia/131278/170149.ts
-#EXTINF:-1 group-title="UFC Fight" tvg-logo="http://p6.vc/XRJ",UFC Fight Pass FHD
+#EXTINF:-1 group-title="UFC Fight" tvg-logo="http://p6.vc/XNA",UFC Fight Pass FHD
 http://pfsv.io:80/leticia/131278/132342.ts
